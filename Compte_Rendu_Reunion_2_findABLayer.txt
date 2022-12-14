@@ -1,0 +1,25 @@
+Ampleur du projet :
+Nationale dans un premier temps
+Pousser au maximum vers l’internationale
+Prévoir une traduction
+
+Business model:
+Le site sera gratuit en premier lieu.
+Sponsorisé par des pubs et dons.
+Partenariat avec des marques (Jeux concours les mettant en avant).
+
+Après une bonne propagation de l’app :
+Limiter l'accès gratuit : possible de le consulter mais pas de création sortie.
+Premium : pourront créer sorties, 10€/mois.
+Badge sur compte : mise en avant VIP.
+
+Budget V1:
+6k€ maximum.
+Fonctionnalités principales seront intégrées.
+
+Topographies et sites principaux : 
+Durs à ajouter en application : Seul le scrapping est possible.
+Pas de base de données connues, et pas de possibilité d'intégrer une carte déjà remplie.
+
+Carte Mentale :
+Validée par le client M. Dupont.
